@@ -22,6 +22,8 @@ public class Feature1 {
 	public void user_navigates_to_other_page() {
 	    // Write code here that turns the phrase above into concrete actions
 	    throw new io.cucumber.java.PendingException();
+	    
+	    // comment
 	}
 
 
